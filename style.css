@@ -4,8 +4,8 @@ body{
 }
 
 header {
-    margin-top: 10px;
-    margin-bottom: 10px;
+    margin-top: 1.6vh;
+    margin-bottom: 1.6vh;
 }
 
 header .row,
@@ -24,15 +24,15 @@ header nav {
 }
 
 header .button {
-    padding: 10px;
-    margin-right: 10px;
+    padding: 0.8vw;
+    margin-right: 0.8vw;
     -webkit-border-radius: 32px;
     -moz-border-radius: 32px;
     border-radius: 32px;
-    text-shadow: -2px 2px 2px #000000;
+    text-shadow: -0.16vw 0.32vh 2px #000000;
     background-color: #1b8adb;
     font-family: Verdana, Geneva, sans-serif;
-    font-size: 12pt;
+    font-size: 2.6vh;
     color: #FFFFFF;
     text-align: center;
     display: flex;
@@ -45,7 +45,7 @@ header .button {
     background-image: url(https://live.staticflickr.com/4141/4778137977_2542203a1f_b.jpg);
     background-size: cover;
     color: #ffffff;
-    text-shadow: -2px 2px 2px #000000;
+    text-shadow: -0.16vw 0.32vh 2px #000000;
 }
 
 .info {
@@ -53,10 +53,10 @@ header .button {
     -webkit-border-radius: 32px;
     -moz-border-radius: 32px;
     border-radius: 32px;
-    text-shadow: -2px 2px 2px #000000;
+    text-shadow: -0.16vw 0.32vh 2px #000000;
     background-color: #1b8adbdd;
     font-family: Verdana, Geneva, sans-serif;
-    font-size: 12pt;
+    font-size: 2.6vh;
     padding: 3rem;
     padding-bottom: 1rem;
 }
@@ -74,8 +74,9 @@ li:before {
 .name {
     font-family: 'Work Sans', sans-serif;
     color: #ffffff;
-    text-shadow: -2px 5px 2px #000000;
-    padding-left: 30px;
+    text-shadow: -0.16vw 0.8vh 2px #000000;
+    padding-left: 2.5vw;
+    font-size: 5.8vh;
 }
 
 .button:hover {
@@ -99,13 +100,13 @@ figcaption {
     -webkit-border-radius: 32px;
     -moz-border-radius: 32px;
     border-radius: 32px;
-    text-shadow: -2px 2px 2px #000000;
+    text-shadow: -0.16vw 0.32vh 2px #000000;
     background-color: #1b8adb;
     padding: 10px;
     margin-left: 20%;
     margin-right: 20%;
     font-family: Verdana, Geneva, sans-serif;
-    font-size: 12pt;
+    font-size: 2.6vh;
     color: #FFFFFF;
     text-align: center;
 }
